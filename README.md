@@ -56,7 +56,7 @@ I build **autonomous AI agent systems** that replace repetitive business workflo
 If your team is spending hours on tasks that follow a pattern — I can probably automate it.
 
 <p align="left">
-  <a href="https://linkedin.com/in/alpkağan-bektaş" target="blank">
+  <a href="https://www.linkedin.com/in/alpka%C4%9Fan-bekta%C5%9F-30bb893b5/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:kaganbektas34@gmail.com">
@@ -67,5 +67,5 @@ If your team is spending hours on tasks that follow a pattern — I can probably
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpkağan-bektaş&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaganbektas&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
 </p>
