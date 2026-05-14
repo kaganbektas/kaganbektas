@@ -9,19 +9,19 @@
 
 ---
 
-### 🤖 What I Do
+###  What I Do
 
 I build **autonomous AI agent systems** that replace repetitive business workflows. Not chatbots — real agents that collect data, make decisions, and execute tasks end-to-end without human intervention.
 
 ```
-📥 Input: A business problem
-⚙️ Process: Multi-agent orchestration, tool calling, autonomous planning
-📤 Output: Work done. Time saved. Money earned.
+ Input: A business problem
+ Process: Multi-agent orchestration, tool calling, autonomous planning
+ Output: Work done. Time saved. Money earned.
 ```
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
