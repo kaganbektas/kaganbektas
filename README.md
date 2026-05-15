@@ -88,13 +88,3 @@ is a good chance an agent can take it over. Reach out if you want to discuss.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaganbektas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaganbektas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
-</p>
