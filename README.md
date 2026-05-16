@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20Agents-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20in-Istanbul-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API-Claude%20%2B%20Groq-orange?style=for-the-badge" />
 </p>
 
 ---
