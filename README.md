@@ -53,7 +53,7 @@ Spotify Web API.
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| **[Neumann](https://github.com/kaganbektas/Neumann)** — *private* | Local voice-first AI assistant for Windows. Multilingual STT, multi-provider LLM routing, plugin skill system with AI-assisted generation, self-improving agent loop, browser automation, Telegram remote control, Electron dashboard. | Python, Claude, Groq, faster-whisper, Electron, React |
+| **[Neumann](https://github.com/kaganbektas/Neumann)** —  | Local voice-first AI assistant for Windows. Multilingual STT, multi-provider LLM routing, plugin skill system with AI-assisted generation, self-improving agent loop, browser automation, Telegram remote control, Electron dashboard. | Python, Claude, Groq, faster-whisper, Electron, React |
 | **[ADONAI](https://github.com/kaganbektas/adonai-ad-platform)** | AI-powered marketing automation platform. Enter a URL, get brand analysis, audience targeting, and ready-to-publish campaigns. | TypeScript, Claude API |
 | **[AI Pal](https://github.com/kaganbektas/ai-pal)** | Desktop AI companion with a Live2D anime character that chats, listens, and reacts to your screen in real time. | JavaScript, Live2D |
 | **[ScrapeKit](https://github.com/kaganbektas/scrapekit)** | Self-hosted web scraping API. Headless browser, article extraction, screenshots, link graph. Has a [Turkish-language fork](https://github.com/kaganbektas/scrapekit-tr) with localized docs. | Python, Playwright |
